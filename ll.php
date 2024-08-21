@@ -18,7 +18,7 @@ $hasil1=$angka1+$angka2;
             <th>NILAI</th>
         </tr>
         <tr>
-            <td><?php echo $hasil1 ?></td>
+            <td><?= $hasil1 ?></td>
         </tr>
         <tr>
             <td><?= $hasil2 ?></td>
