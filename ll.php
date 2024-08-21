@@ -21,7 +21,7 @@ $hasil1=$angka1+$angka2;
             <td><?php echo $hasil1 ?></td>
         </tr>
         <tr>
-            <td><?= echo $hasil2 ?></td>
+            <td><?= $hasil2 ?></td>
         </tr>
     </table>
     <form action="text" method="post">
