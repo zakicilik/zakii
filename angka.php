@@ -9,4 +9,4 @@ $hasil2 = $angka3 - $angka1 ;
 echo '<table border="1">';
 echo "<tr><td>$hasil2</td></tr>";
 echo '</table>';
-<tr><?php
+?>
