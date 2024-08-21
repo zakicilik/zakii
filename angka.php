@@ -7,6 +7,6 @@ $angka4 = 30;
 $hasil1 = $angka1 + $angka2 ;
 $hasil2 = $angka3 - $angka1 ;
 echo '<table border="1">';
-echo "<tr><th> $hasil1 </th></tr>";
 echo "<tr><td>$hasil2</td></tr>";
 echo '</table>';
+<tr><?php
